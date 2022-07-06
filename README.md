@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @X3nonxe
 - 👀 I’m interested in backend developer
-- 🌱 I’m currently learning MySQL, Express JS, React JS, Node JS
+- 🌱 I’m currently learning Hapi Nodejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
